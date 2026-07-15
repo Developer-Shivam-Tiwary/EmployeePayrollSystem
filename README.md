@@ -5,7 +5,17 @@ A Java-based console application that manages employee records and automates pay
 This project demonstrates the implementation of **Object-Oriented Programming (OOP)** concepts, **Collections Framework**, **Exception Handling**, and **modular application design** using Core Java.
 
 ---
+## Preview
 
+![Employee Payroll System](img/Screenshot%202026-07-15%20234156.png)
+
+👉 **Run the project online:** https://www.jdoodle.com/ia/1UwZ 
+
+[![Run on JDoodle](https://img.shields.io/badge/Run%20on-JDoodle-orange?style=for-the-badge)](https://www.jdoodle.com/ia/1UwZ)
+
+
+
+---
 ## 🚀 Features
 
 ### Employee Management

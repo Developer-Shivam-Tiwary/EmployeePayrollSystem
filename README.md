@@ -332,23 +332,6 @@ NET SALARY    : 58725.00
 
 ---
 
-## 🚀 Future Enhancements
-
-- MySQL Database Integration
-- JDBC Support
-- Employee Login System
-- Admin Authentication
-- File-Based Data Storage
-- GUI using Java Swing or JavaFX
-- PDF Salary Slip Generation
-- Attendance Management
-- Leave Management
-- Payroll Reports
-- Export to Excel
-- REST API using Spring Boot
-
----
-
 ## 👨‍💻 Author
 
 **Shivam Tiwary**
